@@ -1,4 +1,4 @@
-### Hi guys <img src="https://i.gifer.com/A0Do.gif" alt="gif" width="50">
+### Hi guys <img src="https://i.pinimg.com/originals/31/0c/42/310c4277a816c4839a8a3b2bb14cbc2b.gif" alt="gif" width="50">
 
 My name is Sardor (Nick🦊)
 I am a web developer(+ freelancer😁) and I create a site for you and your business✨📈
