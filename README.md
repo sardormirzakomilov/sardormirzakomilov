@@ -41,7 +41,6 @@ I am a web developer(+ freelancer😁) and I create a site for you and your busi
   <li>Node.js</li>
   <li>Express.js</li>
   <li>MongoDB</li>
-  <li>SQL</li>
 </ul>
 
 # Hobbies
